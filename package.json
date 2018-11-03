@@ -1,0 +1,22 @@
+{
+  "name": "lambda-to-sync-item-with-algolia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jshint": "^2.9.6",
+    "jshint-loader": "^0.8.4",
+    "webpack": "^4.23.1",
+    "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.344.0",
+    "axios": "^0.18.0"
+  }
+}
